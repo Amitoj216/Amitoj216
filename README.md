@@ -1,8 +1,10 @@
 # Hi there! 👋
 🤖 Hi, My name is Amitoj Singh Jassal.
+
 ### What I know
 - 📖I'm studying Computer Engineering at Terna Engineering College, Nerul.
 - 🌱Languages i'm familiar with and still learning: Python, C, Web Development, Java.
+
 ### My Interest(s)
 - 🎮 I do love to play PC games(Valorant, Minecraft, GTA 5 etc.) and physical games(Table Tennis, Cricket, Football).
 - 📈 I'm enthusiastic about learning new things.
